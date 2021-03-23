@@ -1,17 +1,16 @@
-"""
     Dummy project, with dummy code
 """
 import sys
 
 
-def add(x, y):
+def add( first_number, second_number):
     """Adds two numbers"""
-    return x + y
+    return  first_number + second_number
 
 
-def multiply(x, y):
+def multiply( first_number, second_number):
     """Multiplies two numbers"""
-    return x * y
+    return  first_number * second_number
 
 
 def main():
